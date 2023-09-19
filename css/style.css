@@ -1,0 +1,81 @@
+/* Estilo das Respostas: */
+
+.respostaEx1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.respostaEx2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.respostaEx3 {
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+/* Corpo, Header, parágrafo e textos */ 
+
+header{
+    background-color: #ffffff;
+    padding: 3%;
+}
+
+.divTitleHeader{
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.divSubTitleHeader{
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    font-weight: 600;
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(201, 201, 201);
+    text-align: center;
+}
+
+p {
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+
+.divTitle{
+    color: #000000;
+    font-size: x-large;
+    font-weight: 600;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*Estilo dos botões e campos:*/
+
+.button {
+    transition-duration: 0.4s;
+    padding: 1%;
+    background-color: rgb(201, 201, 201);
+    color: rgb(0, 0, 0);
+    border: 2px solid #000000;
+}
+
+.button:hover {
+    padding: 1%;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+
+.input {
+    border-color: #000000;
+    background-color: rgb(201, 201, 201);
+    color: #000000;
+}
